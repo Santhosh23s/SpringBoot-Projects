@@ -1,7 +1,7 @@
 
 # 🌱 Spring Boot Projects Collection
 
-Welcome to the **Spring Boot Projects Repository** by [Santhosh Jeevan](https://github.com/Santhosh23s)!  
+Welcome to the **Spring Boot Projects Repository** by [Santhosh](https://github.com/Santhosh23s)!  
 This repository contains a curated collection of backend applications and microservices built using **Java** and **Spring Boot**. Each project is designed to highlight real-world features like RESTful APIs, database integration, authentication, testing, and more.
 
 ---
