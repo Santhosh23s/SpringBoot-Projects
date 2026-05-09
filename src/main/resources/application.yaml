@@ -1,0 +1,14 @@
+spring:
+  application:
+    name: StudentRecordManagement
+  datasource:
+    url: jdbc:postgresql://localhost:5432/your_db_name
+    username: your_username
+    password: your_password
+  jpa:
+    hibernate:
+      ddl-auto: update
+
+  web:
+    resources:
+      add-mappings: false
